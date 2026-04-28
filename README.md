@@ -58,3 +58,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tnqlsqkr&bg_color=180,00000000,00000000&title_color=9b6969&text_color=9b6969" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnqlsqkr&layout=compact&bg_color=180,00000000,00000000&title_color=9b6969&text_color=9b6969" height="150"/>
 </p>
+
+<br><br>
+
+<h2 align="center">🐾 GitHub Animals</h2>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/tnqlsqkr?pet-id=826602530203993031&contribution-view=false" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/tnqlsqkr?pet-id=836500444446594411&contribution-view=false" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/tnqlsqkr?pet-id=836500444446594412&contribution-view=false" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/tnqlsqkr?pet-id=836500444446594413&contribution-view=false" width="1000" height="120"/>
+</a>
